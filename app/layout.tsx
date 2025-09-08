@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'notmod • Portfolio',
     description: 'my personal portfolio website',
-    url: 'https://your-domain.com',
+    url: 'https://portfolio-notmod.vercel.app/',
     siteName: 'notmod Portfolio',
     images: [
       {
